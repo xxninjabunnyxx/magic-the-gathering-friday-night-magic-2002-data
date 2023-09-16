@@ -1,0 +1,17 @@
+---
+object: set
+id: 1037d505-8080-4f98-92c6-c9816735c172
+code: f02
+name: Friday Night Magic 2002
+uri: https://api.scryfall.com/sets/1037d505-8080-4f98-92c6-c9816735c172
+scryfall_uri: https://scryfall.com/sets/f02
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Af02&unique=prints
+released_at: '2002-01-01'
+set_type: promo
+card_count: 12
+digital: false
+nonfoil_only: false
+foil_only: true
+block_code: fnm
+block: Friday Night Magic
+icon_svg_uri: https://svgs.scryfall.io/sets/dci.svg?1694404800

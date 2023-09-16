@@ -1,0 +1,109 @@
+---
+object: card
+id: 40f1117c-5bd6-42de-b8df-366c8a4b6d06
+oracle_id: e75ba79f-4cc2-4ede-8641-559ab94e7e36
+multiverse_ids: []
+tcgplayer_id: 38090
+cardmarket_id: 15799
+name: Drain Life
+lang: en
+released_at: '2002-01-01'
+uri: https://api.scryfall.com/cards/40f1117c-5bd6-42de-b8df-366c8a4b6d06
+scryfall_uri: https://scryfall.com/card/f02/7/drain-life?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/4/0/40f1117c-5bd6-42de-b8df-366c8a4b6d06.jpg?1562051916
+  normal: https://cards.scryfall.io/normal/front/4/0/40f1117c-5bd6-42de-b8df-366c8a4b6d06.jpg?1562051916
+  large: https://cards.scryfall.io/large/front/4/0/40f1117c-5bd6-42de-b8df-366c8a4b6d06.jpg?1562051916
+  png: https://cards.scryfall.io/png/front/4/0/40f1117c-5bd6-42de-b8df-366c8a4b6d06.png?1562051916
+  art_crop: https://cards.scryfall.io/art_crop/front/4/0/40f1117c-5bd6-42de-b8df-366c8a4b6d06.jpg?1562051916
+  border_crop: https://cards.scryfall.io/border_crop/front/4/0/40f1117c-5bd6-42de-b8df-366c8a4b6d06.jpg?1562051916
+mana_cost: "{X}{1}{B}"
+cmc: 2.0
+type_line: Sorcery
+oracle_text: |-
+  Spend only black mana on X.
+  Drain Life deals X damage to any target. You gain life equal to the damage dealt, but not more life than the player's life total before the damage was dealt, the planeswalker's loyalty before the damage was dealt, or the creature's toughness.
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 1037d505-8080-4f98-92c6-c9816735c172
+set: f02
+set_name: Friday Night Magic 2002
+set_type: promo
+set_uri: https://api.scryfall.com/sets/1037d505-8080-4f98-92c6-c9816735c172
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Af02&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/f02?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/40f1117c-5bd6-42de-b8df-366c8a4b6d06/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae75ba79f-4cc2-4ede-8641-559ab94e7e36&unique=prints
+collector_number: '7'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Douglas Shuler
+artist_ids:
+- a9ddb513-51c7-455c-ab8f-5b90aae9f75b
+illustration_id: 7dffecb9-a7a1-4205-8541-cfc0daa9a88b
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- tourney
+- fnm
+edhrec_rank: 11717
+penny_rank: 2643
+prices:
+  usd: 
+  usd_foil: '13.67'
+  usd_etched: 
+  eur: 
+  eur_foil: '7.95'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Drain+Life&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Drain+Life&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Drain+Life
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/38090?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Drain+Life&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Drain+Life&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
